@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Softwares | Academic</title>
+    <link>https://example.com/software/</link>
+      <atom:link href="https://example.com/software/index.xml" rel="self" type="application/rss+xml" />
+    <description>Softwares</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Softwares</title>
+      <link>https://example.com/software/</link>
+    </image>
+    
+    <item>
+      <title>Abcoxp</title>
+      <link>https://example.com/software/abcoxp/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/software/abcoxp/</guid>
+      <description>&lt;h2 id=&#34;package-abcoxphttpsgithubcomaguerozzabcoxp&#34;&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;a href=&#34;https://github.com/AgueroZZ/abcoxp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Abcoxp&lt;/a&gt;&lt;/h2&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+R package for approximate Bayesian inference of Cox PH model.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Repository Link:&lt;/strong&gt; &lt;a href=&#34;https://github.com/AgueroZZ/abcoxp&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Published Date:&lt;/strong&gt; January 1, 2023  &lt;!-- You can add more metadata like this --&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>OSplines</title>
+      <link>https://example.com/software/osplines/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/software/osplines/</guid>
+      <description>&lt;h2 id=&#34;package-osplineshttpsgithubcomsmoothing-iwposplines&#34;&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;a href=&#34;https://github.com/Smoothing-IWP/OSplines&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;OSplines&lt;/a&gt;&lt;/h2&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+R package to efficiently implement model-based smoothing with the integrated Wiener’s process, within a variety of Bayesian hierarchical models.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Repository Link:&lt;/strong&gt; &lt;a href=&#34;https://github.com/Smoothing-IWP/OSplines&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Published Date:&lt;/strong&gt; January 1, 2023  &lt;!-- You can add more metadata like this --&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>sGPfit</title>
+      <link>https://example.com/software/sgpfit/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/software/sgpfit/</guid>
+      <description>&lt;h2 id=&#34;package-sgpfithttpsgithubcomaguerozzsgpfit&#34;&gt;&lt;strong&gt;Package:&lt;/strong&gt; &lt;a href=&#34;https://github.com/AgueroZZ/sGPfit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;sGPfit&lt;/a&gt;&lt;/h2&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Description:&lt;/strong&gt;&lt;br&gt;
+A package that implements the sGP model with either state space method or sB approximation.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Repository Link:&lt;/strong&gt; &lt;a href=&#34;https://github.com/AgueroZZ/sGPfit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Published Date:&lt;/strong&gt; January 1, 2023  &lt;!-- You can add more metadata like this --&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
